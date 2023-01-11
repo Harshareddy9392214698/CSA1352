@@ -7,3 +7,4 @@
 6.TM palindrome
 7.PDA a^nb^2n
 8.TM addition
+9. TM a^nb^n
